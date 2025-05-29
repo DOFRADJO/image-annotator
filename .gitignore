@@ -1,0 +1,8 @@
+# Ignorer le dossier virtuel
+venv/
+__pycache__/
+*.pyc
+uploads/
+export_tmp/
+annotations_export.zip
+.DS_Store
